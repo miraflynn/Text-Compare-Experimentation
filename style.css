@@ -1,0 +1,14 @@
+/*
+I don't actually know css lol
+*/
+body{
+    font-family: monospace;
+}
+
+.same{
+    background-color: white;
+}
+
+.different{
+    background-color: lightcoral;
+}
